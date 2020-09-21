@@ -6,7 +6,7 @@
 Proyecto final para Ironhack Data Analytics Part Time 2020
 
 ## Overview
-El objetivo final del proyecto es entender los grandes tipos de peleadores que se encuentran compitiendo en Ultimate Fighter Championship, utilizando tecnica de machine learning no supervizado. Interpretaciones e insights de loss resultados obtenidos.
+El objetivo final del proyecto es entender los grandes tipos de peleadores que se encuentran compitiendo en Ultimate Fighter Championship, utilizando tecnica de machine learning no supervizado. Interpretaciones e insights de los resultados obtenidos.
 
 ---
 
